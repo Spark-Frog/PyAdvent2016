@@ -1,0 +1,4 @@
+('first', ['hydrogen-compatible', 'lithium-compatible'])
+('second', ['hydrogen generator'])
+('third', ['lithium generator'])
+('fourth', [])
